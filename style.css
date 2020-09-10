@@ -1,0 +1,17 @@
+.footer {
+ /* Positioning */
+position: absolute;   
+bottom: 0;
+height: 60px;
+width: 100%;
+background-color: salmon;
+}
+
+.nav {
+    position:none;
+    top: 0;
+    height: 0;
+    width: 0;
+    background-blend-mode: color blue;
+}
+
